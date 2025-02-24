@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  📝 Linguagens: **PHP; Javascript; C#.**
+  📝 Linguagens: PHP; Javascript; C#.
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Bootstrap; Laravel.**
+  💼 Ferramentas: Bootstrap; Laravel; MySQL.
 </p>
 
 <p align="left">
@@ -21,7 +21,7 @@
   <a href="#" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
   <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/lfe-borges" alt="LinkedIn"/></a>
   
  
 
