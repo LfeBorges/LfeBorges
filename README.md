@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Bootstrap; Laravel; React.**
+  💼 Ferramentas: **Bootstrap; Laravel.**
 </p>
 
 <p align="left">
