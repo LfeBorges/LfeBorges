@@ -3,6 +3,7 @@
 
 <p align="left"> 
 <strong>Bem vindo ao meu GitHub!</strong>
+Atualmente cursando Análise e Desenvolvimento de Sistemas
 </p>
 
 <p align="left">
