@@ -11,5 +11,5 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas
 </p>
 
 <p align="left">
-  💼 Ferramentas: Bootstrap; Laravel; MySQL.
+  💼 Ferramentas: Bootstrap; Laravel; MySQL; React.
 </p>
