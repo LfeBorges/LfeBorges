@@ -1,4 +1,4 @@
-# Bem-vindo ao meu laboratório mal-assombrado. 👻
+# Bem-vindo ao meu laboratório mal-assombrado. 💀
 
 Esta não é uma página de marketing. É o registro real de um Analista de Sistemas explorando o que acontece por baixo do capô da tecnologia.
 
