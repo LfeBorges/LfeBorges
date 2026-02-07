@@ -10,7 +10,7 @@ Entre a **Construção** de ideias malucas para transformar conceitos em algo fu
 ### 📟 Histórico de Campo
 Vim de uma base prática em suporte e infraestrutura de TI. No dia a dia do setor público, aprendi que a teoria é importante, mas o sistema precisa funcionar quando o problema aparece.
 
-### 📁 Projetos que estou envolvido:
+### 📁 Projetos que estou envolvido e colaborei:
 * Sistema de agendamento de transporte na area da saúde.
 * Ferramenta de automação para o Azure DevOps.
 * Estudos e "fantasmas" de projetos que serviram como degraus no meu aprendizado.
