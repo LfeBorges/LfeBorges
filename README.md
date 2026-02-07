@@ -11,8 +11,8 @@ Entre a **Construção** de ideias malucas para transformar conceitos em algo fu
 Vim de uma base prática em suporte e infraestrutura de TI. No dia a dia do setor público, aprendi que a teoria é importante, mas o sistema precisa funcionar quando o problema aparece.
 
 ### 📁 Projetos que estou envolvido:
-* Projetos reais, como o sistema de agendamento de transporte em Laravel.
-* Ferramentas de automação para o Azure DevOps.
+* Sistema de agendamento de transporte na area da saúde.
+* Ferramenta de automação para o Azure DevOps.
 * Estudos e "fantasmas" de projetos que serviram como degraus no meu aprendizado.
 
 ---
