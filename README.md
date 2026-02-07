@@ -1,6 +1,6 @@
 # Bem-vindo ao meu laboratório mal-assombrado. 👻
 
-Esta não é uma página de marketing. É o registro real de um estudante de **Análise e Desenvolvimento de Sistemas** tentando entender o que acontece por baixo do capô da tecnologia.
+Esta não é uma página de marketing. É o registro real de um Analista de Sistemas explorando o que acontece por baixo do capô da tecnologia.
 
 Aqui, entre uma linha de código e outra, eu documento minha evolução. Não espere perfeição; espere experimentos.
 
@@ -10,7 +10,7 @@ Entre a **Construção** de ideias malucas para transformar conceitos em algo fu
 ### 📟 Histórico de Campo
 Vim de uma base prática em suporte e infraestrutura de TI. No dia a dia do setor público, aprendi que a teoria é importante, mas o sistema precisa funcionar quando o problema aparece.
 
-### 📁 O que você vai encontrar nos repositórios:
+### 📁 Projetos que estou envolvido:
 * Projetos reais, como o sistema de agendamento de transporte em Laravel.
 * Ferramentas de automação para o Azure DevOps.
 * Estudos e "fantasmas" de projetos que serviram como degraus no meu aprendizado.
