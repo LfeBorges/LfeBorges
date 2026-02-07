@@ -18,4 +18,4 @@ Vim de uma base prática em suporte e infraestrutura de TI. No dia a dia do seto
 ---
 
 **Conecte-se comigo:**
-[LinkedIn](www.linkedin.com/in/lfe-borges)| [Email](lfe.ribeiro04@gmail.com) 
+[LinkedIn](www.linkedin.com/in/lfe-borges) | [Email](lfe.ribeiro04@gmail.com) 
