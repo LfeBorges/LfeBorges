@@ -1,4 +1,4 @@
-# [SEU NOME] | Security Student & Systems Developer
+# Luiz Felipe | Security Student & Systems Developer
 > "In security, we don't trust, we verify."
 
 ## 🛠 Identity Check
@@ -17,7 +17,7 @@
 - **Environments:** `Kali Linux`, `Parrot OS`, `Docker`
 
 ### 🏗️ Development & Automation
-- **Backend:** `PHP (Laravel)`, `Python` (Scripting para automação)
+- **Backend:** `JS (React)``C#`, `PHP (Laravel)`, `Python` (Scripting para automação)
 - **Database:** `MySQL`, `PostgreSQL`
 - **DevOps/Cloud:** `Azure DevOps`, `Git/GitHub`
 
@@ -36,11 +36,11 @@
 ---
 
 ## 📈 Activity Log
-![Github Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=LfeBorges&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LfeBorges&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📟 Contact
-- **LinkedIn:** [/in/seu-link-aqui]
-- **Email:** `seu.email@provedor.com`
+- **LinkedIn:** www.linkedin.com/in/lfe-borges
+
