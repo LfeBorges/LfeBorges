@@ -1,48 +1,21 @@
-# Luiz Felipe | Security Student & Systems Developer
-> "In security, we don't trust, we verify."
+# Bem-vindo ao meu laboratório mal-assombrado. 👻
 
-## 🛠 Identity Check
-- 🎓 **Major:** Análise e Desenvolvimento de Sistemas (Foco em Cybersecurity)
-- 🏢 **Background:** Ex-IT Intern @ Setor Público (Infraestrutura & Suporte)
-- 🛠 **OS Environment:** Windows + WSL2 (Kali Linux)
-- 🎯 **Target:** SOC Tier 1 / Junior Security Analyst
+Esta não é uma página de marketing. É o registro real de um estudante de **Análise e Desenvolvimento de Sistemas** tentando entender o que acontece por baixo do capô da tecnologia.
 
----
+Aqui, entre uma linha de código e outra, eu documento minha evolução. Não espere perfeição; espere experimentos.
 
-## 🛡️ Technical Arsenal
+### 🧪 O que acontece aqui:
+Entre a **Construção** de ideias malucas para transformar conceitos em algo funcional e a **Exploração** sombria para descobrir como as coisas realmente funcionam por dentro, sigo a premissa de que a curiosidade e a busca pelo conhecimento são o que realmente levam longe.
 
-### 🔴 Red & Blue Team Ops
-- **Network Recon:** `Nmap`, `Wireshark`, `TCPDump`
-- **Exploitation Frameworks:** `Metasploit`, `Burp Suite` (Learning)
-- **Environments:** `Kali Linux`, `Parrot OS`, `Docker`
+### 📟 Histórico de Campo
+Vim de uma base prática em suporte e infraestrutura de TI. No dia a dia do setor público, aprendi que a teoria é importante, mas o sistema precisa funcionar quando o problema aparece.
 
-### 🏗️ Development & Automation
-- **Backend:** `JS (React)``C#`, `PHP (Laravel)`, `Python` (Scripting para automação)
-- **Database:** `MySQL`, `PostgreSQL`
-- **DevOps/Cloud:** `Azure DevOps`, `Git/GitHub`
+### 📁 O que você vai encontrar nos repositórios:
+* Projetos reais, como o sistema de agendamento de transporte em Laravel.
+* Ferramentas de automação para o Azure DevOps.
+* Estudos e "fantasmas" de projetos que serviram como degraus no meu aprendizado.
 
 ---
 
-## 📂 Featured Operations (Repositories)
-
-### 🏥 Transport Scheduling System
-*Full-stack system developed with PHP/Laravel and MySQL.*
-- Implementação de lógica de agendamento e segurança de nível de aplicação.
-
-### 🤖 Azure DevOps Intelligence
-*Extension for task planning and workflow optimization.*
-- Foco em automação de processos e integração de ferramentas.
-
----
-
-## 📈 Activity Log
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LfeBorges&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LfeBorges&layout=compact&theme=radical)
-
----
-
-## 📟 Contact
-- **LinkedIn:** www.linkedin.com/in/lfe-borges
-
+**Conecte-se comigo:**
+[LinkedIn](www.linkedin.com/in/lfe-borges)| [Email](lfe.ribeiro04@gmail.com) 
