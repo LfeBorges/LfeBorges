@@ -36,8 +36,10 @@
 ---
 
 ## 📈 Activity Log
-![Github Stats](https://github-readme-stats.vercel.app/api?username=LfeBorges&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LfeBorges&layout=compact&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LfeBorges&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LfeBorges&layout=compact&theme=radical)
 
 ---
 
