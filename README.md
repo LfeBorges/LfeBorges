@@ -3,5 +3,5 @@
 
 <p align="left"> 
 <strong>Eae Visitante!</strong><br>
-Meu laboratorio assombrado
+Bem vindo ao meu laboratorio assombrado
 </p>
